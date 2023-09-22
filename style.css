@@ -19,7 +19,7 @@ body {
   
 }
 
-h1 {
+.title {
   width: 300px;
   font-size: 40px;
   font-weight: bold;
